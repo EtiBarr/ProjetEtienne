@@ -83,7 +83,17 @@ figure h4{
 }
 
 footer{
-    position: fixed;
+    position: relative;
     bottom:0;
     width: 100%;
+}
+
+.centered{
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+div h4{
+    color: cyan;
 }
