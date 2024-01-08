@@ -1,0 +1,89 @@
+.button:hover{
+    transform: scale(1.25);
+}
+
+header img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+
+header{
+    margin-top: 5%;
+}
+
+main h4{
+    margin-left: 12%;
+    margin-top: 5%;
+    color: cyan;
+}
+
+main, section{
+    margin-left: 37.5%;
+    margin-top: 5%;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+
+.sign-in{
+    width: 330px;
+    padding:20px;
+}
+
+.button{
+    width: 375px;
+    padding: 15px;
+    background-color: cyan;
+    color: black;
+}
+
+body{
+    background: #121212;
+}
+
+.label{
+    color: white;
+    font-size: 15px;
+}
+
+footer{
+    margin-top: 20%;
+    text-align: center;
+}
+
+footer hr{
+    background-color: black;
+    border-color: black;
+}
+footer h5{
+    color: white;
+}
+
+figure h5{
+    color: white;
+}
+
+
+figure table, figure h4{
+    margin-left: 35%;
+}
+
+figure h4{
+    color: cyan;
+}
+
+.logos{
+    margin-left:43%;
+}
+
+footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+}
